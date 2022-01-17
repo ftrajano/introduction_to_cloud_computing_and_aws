@@ -1,0 +1,2 @@
+# introduction_to_cloud_computing_and_aws
+Udacity instructions for aws redshif
