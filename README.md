@@ -6,6 +6,9 @@ Steps to delete a cluster are:
 
 1. On the Clusters page of your Amazon Redshift console, click on the check-box next to your cluster name. Then click on the Actions drop-down button on top → select Delete.
 
+<img width="1059" alt="aaaaaaaaaaa" src="https://user-images.githubusercontent.com/1679821/149808240-18471d9a-d3e3-4bdb-a071-7df95483749f.png">
+
+
 Delete a cluster
 
 2. You can choose to not Create final snapshot, and click on the Delete cluster button.
