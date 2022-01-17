@@ -2,7 +2,7 @@
 Udacity instructions for aws redshif
 
 
-Steps to delete a cluster are:
+## Steps to delete a cluster are:
 
 1. On the Clusters page of your Amazon Redshift console, click on the check-box next to your cluster name. Then click on the Actions drop-down button on top → select Delete.
 
