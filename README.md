@@ -13,6 +13,8 @@ Delete a cluster
 
 2. You can choose to not Create final snapshot, and click on the Delete cluster button.
 
+<img width="608" alt="screenshot-2021-03-26-at-4 10 50-pm" src="https://user-images.githubusercontent.com/1679821/149808555-203a69a0-0778-42b1-a41e-9e93738531d8.png">
+
 Prompt before deleting the cluster
 
 3. Your cluster will change it's status to deleting, and then disappear from your Cluster list once it's finished deleting. You'll no longer be charged for this cluster.
